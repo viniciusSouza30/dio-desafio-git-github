@@ -1,0 +1,21 @@
+git init - inicializa o processo de controle de versão do seu repositório
+
+git clone - pegar um projeto do GitHub, ter um arquivo identico ao do git
+
+git add . ou git add <<nome_arquivo>> - é para adicionar arquivos para que eles possam ser comitados. o primeiro adiciona todos os arquivos e outro separadamente.	
+
+git commit -m 'mensagem de commit' - salvar as alterações. juntar todas as alterações e tornar ela rastreável. escrever mensagens que descreves as ações feitas no código para ficar mais fácil de identificar
+
+git push - publicar nossas ações no repósitorio remoto.
+
+git pull - obtém alterações no seu repositório local do remoto
+
+git merge - juntar as branch. também é para resolver algum tipo de conflito (merge)
+
+git status - obtém informações atuais do nosso projeto
+
+git log - histórico de alterações (commits, autores, horas...)
+
+git branch <<nome da branch>> - cria um novo ramo. cria ramos separados para estar trabalhando em ramos separado da master
+
+visite: hhtps:\\git-scm.com\docs
